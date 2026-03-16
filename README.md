@@ -18,8 +18,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Secure+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Automating+Everything+with+Python+%F0%9F%90%8D;Defending+Against+Cyber+Threats+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishnu_Kiran_Dabbara-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnukirandabbara)
-[![Portfolio](https://img.shields.io/badge/Portfolio-kiranlucky3.github.io-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kiranlucky3.github.io)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dabbaravishnukiran52@gmail.com)
 
 </div>
 
