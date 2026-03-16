@@ -7,7 +7,7 @@
 *Building secure, scalable cloud infrastructure with automation*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/vishnukirandabbara)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:dabbaravishnukiran52@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=flat-square&logo=google-chrome)](https://kiranlucky3.github.io)
 
 </div>
@@ -98,19 +98,6 @@ Production-grade Kubernetes cluster with security best practices, RBAC, and poli
 
 **Tech:** Kubernetes, Security Policies, Monitoring
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Vishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiranlucky3&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiranlucky3&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
